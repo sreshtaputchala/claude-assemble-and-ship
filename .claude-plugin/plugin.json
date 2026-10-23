@@ -1,0 +1,5 @@
+{
+  "name": "qa-kit",
+  "version": "0.1.0",
+  "description": "Summarise branch changes and get a quick code review."
+}
